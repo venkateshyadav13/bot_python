@@ -12,5 +12,5 @@ if (!defined('BOT_GROUP'))                       define('BOT_GROUP', '-100202175
 
 if (!defined('DB_DATABASE'))                    define('DB_DATABASE', 'u241258339_sunny');
 if (!defined('DB_HOST'))                        define('DB_HOST', 'localhost');
-if (!defined('DB_USERNAME'))                    define('DB_USERNAME', 'u241258339_sunny');
-if (!defined('DB_PASSWORD'))                    define('DB_PASSWORD', 'w~Sij4N?');
+if (!defined('DB_USERNAME'))                    define('DB_USERNAME', 'anony8247');
+if (!defined('DB_PASSWORD'))                    define('DB_PASSWORD', 'venky8247');
