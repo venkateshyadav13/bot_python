@@ -1,16 +1,16 @@
 <?php
 
-if (!defined('BOT_OWNER_NAME'))                      define('BOT_OWNER_NAME', '__-B3');
-if (!defined('BOT_OWNER_USERNAME'))                      define('BOT_OWNER_USERNAME', 'Was_B3');
+if (!defined('BOT_OWNER_NAME'))                      define('BOT_OWNER_NAME', 'bot');
+if (!defined('BOT_OWNER_USERNAME'))                      define('BOT_OWNER_USERNAME', 'venkypanda82');
 if (!defined('BOT_OWNER_ID'))                      define('BOT_OWNER_ID', '1142868987');
 
 if (!defined('BOT_NAME'))               define('BOT_NAME', 'BETA');
 if (!defined('BOT_USERNAME'))               define('BOT_USERNAME', 'Theincognito82Bot');
 if (!defined('BOT_TOKEN'))                       define('BOT_TOKEN', '7358026787:AAEIDmq2E77S5RntFRLn-cVkDmtk3nO8rtw');
-if (!defined('BOT_LOGS'))                       define('BOT_LOGS', '-4194518429');
-if (!defined('BOT_GROUP'))                       define('BOT_GROUP', '-1002021756101');
+if (!defined('BOT_LOGS'))                       define('BOT_LOGS', '-');
+if (!defined('BOT_GROUP'))                       define('BOT_GROUP', '-');
 
-if (!defined('DB_DATABASE'))                    define('DB_DATABASE', 'u241258339_sunny');
+if (!defined('DB_DATABASE'))                    define('DB_DATABASE', 'sql12719837');
 if (!defined('DB_HOST'))                        define('DB_HOST', 'localhost');
-if (!defined('DB_USERNAME'))                    define('DB_USERNAME', 'anony8247');
-if (!defined('DB_PASSWORD'))                    define('DB_PASSWORD', 'venky8247');
+if (!defined('DB_USERNAME'))                    define('DB_USERNAME', 'sql12719837');
+if (!defined('DB_PASSWORD'))                    define('DB_PASSWORD', 'xrQE75mmAI');
